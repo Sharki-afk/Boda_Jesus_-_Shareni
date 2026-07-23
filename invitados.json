@@ -1,7 +1,4 @@
 [
-  {"nombre":"Test 1","adultos":2,"ninos":0},
-  {"nombre":"Test 2","adultos":2,"ninos":0},
-  {"nombre":"Test 3","adultos":2,"ninos":0},
   {"nombre":"Luis Magaña","adultos":2,"ninos":0},
   {"nombre":"Angelica Magaña","adultos":2,"ninos":0},
   {"nombre":"Mario Magaña","adultos":2,"ninos":0},
